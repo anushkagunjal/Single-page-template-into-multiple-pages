@@ -1,4 +1,6 @@
 # Single-page-template-into-multiple-pages
+Single page
+![single page template](https://user-images.githubusercontent.com/92078186/142158226-0204b034-0c07-4161-ae37-ad71f5e68fc0.png)
 About
 ![about temp](https://user-images.githubusercontent.com/92078186/142156941-9f10b734-9b26-4fd9-a02a-a7fcac318769.png)
 Travel
